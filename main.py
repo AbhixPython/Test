@@ -318,7 +318,7 @@ h4{
     <h2>ABHI BRAND HERE</h2>
     <br />
     <div class="image-container">
-  <img src="<a href="https://i.ibb.co/Xxv9RYf3/image.jpg"><img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+  <img src="<a href="https://ibb.co/nM619Td8"><img src="https://ibb.co/nM619Td8" alt="Image" class="image">
    <h1>𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻𝘆 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘁𝗼 𝘁𝗵𝗲 𝗼𝘄𝗻𝗲𝗿</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
