@@ -14,7 +14,7 @@ html_content = '''
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐓𝐇𝐄 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</title>
+    <title>𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐀𝐁𝐇𝐈 𝐈𝐍𝐂</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
     <style>
@@ -297,10 +297,10 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝗦𝗘𝗥𝗩𝗘𝗥 𝗠𝗘𝗡𝗨</div>
+            <div class="text-2xl text-primary">𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗠𝗘𝗡𝗨</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="Coming Soon"></a >Coming Soon</li>
+                <li><a href=""></a >𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 1</li>
                                 <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
                 <li><a href="">Coming Soon</a></li>
                 
@@ -318,64 +318,64 @@ h4{
     <h2>ABHI BRAND HERE</h2>
     <br />
     <div class="image-container">
-  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
-   <h1>𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻𝘆 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘁𝗼 𝘁𝗵𝗲 𝗼𝘄𝗻𝗲𝗿</h1>
+  <img src="<a href="https://i.ibb.co/Xxv9RYf3/image.jpg"><img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+   <h1>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
     <br />
     <br />
         <div class="image-containe">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗼𝗻𝘃𝗼 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</h1>
+ <h1>𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='user.html'">CHECK</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗼𝗻𝘃𝗼 𝟮</h1>
+ <h1>𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
-    <h1>𝗠𝘂𝗹𝘁𝗶 𝗖𝗼𝗼𝗸𝗶𝗲 𝗪𝗮𝗹𝗹</h1>
+    <h1>𝗧𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗦𝗶𝗻𝗴𝗹𝗲 𝗖𝗼𝗼𝗸𝗶𝗲 𝗪𝗮𝗹𝗹</h1>
+ <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
            <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗚𝗿𝗼𝘂𝗽 𝗨𝗶𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗼𝗿 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</h1>
+ <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗠𝘂𝗹𝘁𝗶 + 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻 𝗖𝗵𝗲𝗮𝗸𝗲𝗿</h1>
+ <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
-     <h1>Coming Soon</h1>
+     <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
        <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>Coming Soon</h1>
+ <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK</button>
     <br />
