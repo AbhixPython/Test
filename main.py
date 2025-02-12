@@ -297,11 +297,11 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 𝐀𝐁𝐇𝐈 𝐃𝐎𝐍</div>
+            <div class="text-2xl text-primary">ABHI BRAND HERE</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="http://65.108.3.108:22372/">𝗚𝗿𝗼𝘂𝗽 𝗨𝗶𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗼𝗿 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</a ></li>
-                                <li><a href="https://tokens.darkeagle.online/">𝗠𝘂𝗹𝘁𝗶 + 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻 𝗖𝗵𝗲𝗮𝗸𝗲𝗿</a></li>
+                <li><a href="Coming Soon"></a >Coming Soon</li>
+                                <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
                 <li><a href="">Coming Soon</a></li>
                 
                     <li><a href="">Coming Soon</a></li>
@@ -354,16 +354,16 @@ h4{
     <br />
            <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>Coming Soon</h1>
+ <h1>𝗚𝗿𝗼𝘂𝗽 𝗨𝗶𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗼𝗿 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
     <br />
     <br />
           <div class="imager">
  <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>Coming Soon</h1>
+ <h1>𝗠𝘂𝗹𝘁𝗶 + 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻 𝗖𝗵𝗲𝗮𝗸𝗲𝗿</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
     <br />
     <br />
           <div class="imager">
