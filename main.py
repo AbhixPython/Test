@@ -14,7 +14,7 @@ html_content = '''
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝗦𝗘𝗥𝗩𝗘𝗥 𝗠𝗘𝗡𝗨</title>
+    <title>𝐓𝐇𝐄 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
     <style>
@@ -297,7 +297,7 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">ABHI BRAND HERE</div>
+            <div class="text-2xl text-primary">𝗦𝗘𝗥𝗩𝗘𝗥 𝗠𝗘𝗡𝗨</div>
             <input type='checkbox' id='check' />
             <span class="menu">
                 <li><a href="Coming Soon"></a >Coming Soon</li>
@@ -315,7 +315,7 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>.       ___</h2>
+    <h2>ABHI BRAND HERE</h2>
     <br />
     <div class="image-container">
   <img src="<a href="https://i.ibb.co/Xxv9RYf3/image.jpg"><img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
