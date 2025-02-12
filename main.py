@@ -300,13 +300,13 @@ h4{
             <div class="text-2xl text-primary">𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 𝐀𝐁𝐇𝐈 𝐃𝐎𝐍</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="">SERVER 1</a ></li>
-                                <li><a href="">SERVER2</a></li>
-                <li><a href="">CONVO WEB</a></li>
+                <li><a href="http://65.108.3.108:22372/">𝗚𝗿𝗼𝘂𝗽 𝗨𝗶𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗼𝗿 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</a ></li>
+                                <li><a href="https://tokens.darkeagle.online/">𝗠𝘂𝗹𝘁𝗶 + 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻 𝗖𝗵𝗲𝗮𝗸𝗲𝗿</a></li>
+                <li><a href="">Coming Soon</a></li>
                 
-                    <li><a href="">WEB STICKER</a></li>
-                                        <li><a href="https://tokens.darkeagle.online/">TOKEN CHECKER</a></li>
-                <li><a href="">POST/WALL</a></li>
+                    <li><a href="">Coming Soon</a></li>
+                                        <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
+                <li><a href="">Coming Soon</a></li>
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
@@ -318,66 +318,66 @@ h4{
     <h2>.       ___</h2>
     <br />
     <div class="image-container">
-  <img src="<a href="https://ibb.co/3kRqLMC"><img src="https://i.ibb.co/TrWSFbg/1734684065821" alt="Image" class="image">
+  <img src="<a href="https://i.ibb.co/Xxv9RYf3/image.jpg"><img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
    <h1>𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻𝘆 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘁𝗼 𝘁𝗵𝗲 𝗼𝘄𝗻𝗲𝗿</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
     <br />
     <br />
         <div class="image-containe">
- <img src="https://i.ibb.co/sqgRQ21/20241001-011244.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
  <h1>𝗖𝗼𝗻𝘃𝗼 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='user.html'">CHECK</button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/yFjSGSn/20241001-011137.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
  <h1>𝗖𝗼𝗻𝘃𝗼 𝟮</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://aryan.betteruptime.com/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/TBNG52J/20241001-011820.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
     <h1>𝗠𝘂𝗹𝘁𝗶 𝗖𝗼𝗼𝗸𝗶𝗲 𝗪𝗮𝗹𝗹</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK </button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/wJ49ft6/20241001-011726.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
  <h1>𝗦𝗶𝗻𝗴𝗹𝗲 𝗖𝗼𝗼𝗸𝗶𝗲 𝗪𝗮𝗹𝗹</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://aryan.betteruptime.com/'">CHECK  </button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
            <div class="imager">
- <img src="https://i.ibb.co/mvMkJBg/20241001-012145.jpg" alt="Image" class="image">
- <h1>𝗠𝘂𝗹𝘁𝗶 + 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻 𝗖𝗵𝗲𝗮𝗸𝗲𝗿</h1>
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+ <h1>Coming Soon</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK  </button>
+ <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
     <br />
     <br />
           <div class="imager">
- <img src="https://i.ibb.co/CmZhJtg/20241001-152851.jpg" alt="Image" class="image">
- <h1>𝗚𝗿𝗼𝘂𝗽 𝗨𝗶𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗼𝗿 𝗕𝘆 𝗧𝗼𝗸𝗲𝗻</h1>
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+ <h1>Coming Soon</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
     <br />
     <br />
           <div class="imager">
- <img src="https://i.ibb.co/FqBpX1G/images.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
      <h1>Coming Soon</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK  </button>
+ <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
     <br />
     <br />
        <div class="imager">
- <img src="https://i.ibb.co/FqBpX1G/images.jpg" alt="Image" class="image">
- <h1>➤ ALL WEB TO WEB TOOLS + ALL TERMUX TOOLS K LIYA UPER 3 DOT PY CLICK KARO꧂</h1>
+ <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+ <h1>Coming Soon</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK  </button>
+ <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK</button>
     <br />
     <br />
     
