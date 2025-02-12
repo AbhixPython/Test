@@ -315,16 +315,16 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>ABHI BRAND HERE</h2>
+    <h2>𝗢𝗨𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦</h2>
     <br />
-    <div class="image-container">
+    <div class="imager">
    <img src="https://i.ibb.co/DHy3nJTd/IMG-20250212-WA0044.jpg" alt="Image" class="image">
    <h1>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
     <br />
     <br />
-        <div class="image-containe">
+        <div class="imager">
  <img src="https://i.ibb.co/0jdQPhSG/IMG-20250212-WA0042.jpg" alt="Image" class="image">
  <h1>𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</h1>
  <br />
