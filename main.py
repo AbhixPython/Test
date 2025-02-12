@@ -300,7 +300,7 @@ h4{
             <div class="text-2xl text-primary">𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗠𝗘𝗡𝗨</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href="https://tokens.darkeagle.online/"></a >𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</li>
+                <li><a href=""></a >𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 1</li>
                                 <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
                 <li><a href="">Coming Soon</a></li>
                 
@@ -318,7 +318,7 @@ h4{
     <h2>ABHI BRAND HERE</h2>
     <br />
     <div class="image-container">
-   <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
+   <img src="https://i.ibb.co/DHy3nJTd/IMG-20250212-WA0044.jpg" alt="Image" class="image">
    <h1>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
