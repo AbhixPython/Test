@@ -297,16 +297,16 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗠𝗘𝗡𝗨</div>
+            <div class="text-2xl text-primary">𝐀𝐁𝐇𝐈 𝐁𝐑𝐀𝐍𝐃 𝐇𝐄𝐑𝐄</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href=""></a >𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 1</li>
-                                <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
-                <li><a href="">Coming Soon</a></li>
+                <li><a href=""></a >𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</li>
+                                <li><a href="https://app-cheaker.onrender.com">𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</a></li>
+                <li><a href="http://65.108.3.108:22372/"></a></li>
                 
-                    <li><a href="">Coming Soon</a></li>
-                                        <li><a href="https://tokens.darkeagle.online/">Coming Soon</a></li>
-                <li><a href="">Coming Soon</a></li>
+                    <li><a href="">𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</a></li>
+                                        <li><a href="https://abhii-page-server.onrender.com/">Coming Soon</a></li>
+                <li><a href="">𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</a></li>
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
@@ -328,14 +328,14 @@ h4{
  <img src="https://i.ibb.co/0jdQPhSG/IMG-20250212-WA0042.jpg" alt="Image" class="image">
  <h1>𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='user.html'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://abhii-page-server.onrender.com/'">CHECK</button>
     <br />
     <br />
             <div class="imager">
  <img src="https://i.ibb.co/k22xTrNZ/IMG-20250212-WA0040.jpg" alt="Image" class="image">
  <h1>𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://tokens.darkeagle.online/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://app-cheaker.onrender.com'">CHECK</button>
     <br />
     <br />
             <div class="imager">
