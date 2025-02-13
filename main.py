@@ -14,7 +14,7 @@ html_content = '''
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐀𝐁𝐇𝐈 𝐈𝐍𝐂</title>
+    <title>WELCOME TO THE [ SERVERX ] 👑</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
     <style>
@@ -297,16 +297,16 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝐀𝐁𝐇𝐈 𝐁𝐑𝐀𝐍𝐃 𝐇𝐄𝐑𝐄</div>
+            <div class="text-2xl text-primary">[ SERVERX ] BY ABHI 👑</div>
             <input type='checkbox' id='check' />
             <span class="menu">
-                <li><a href=""></a >𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</li>
-                                <li><a href="https://app-cheaker.onrender.com">𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</a></li>
-                <li><a href="http://65.108.3.108:22372/"></a></li>
+                <li><a href="https://app-cheaker.onrender.com"></a >𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</li>
+                                <li><a href="https://www.kojaxd.online/group">𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</a></li>
+                <li><a href="https://abhii-page-server.onrender.com/"></a>𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</li>
                 
-                    <li><a href="">𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</a></li>
-                                        <li><a href="https://abhii-page-server.onrender.com/">Coming Soon</a></li>
-                <li><a href="">𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</a></li>
+                    <li><a href="https://www.kojaxd.online/getuid"></a>𝗚𝗘𝗧 𝗣𝗢𝗦𝗧 𝗨𝗜𝗗</li>
+                                        <li><a href=""></a></li>
+                <li><a href=""></a></li>
                 </li>
                 <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
             </span>
@@ -315,69 +315,48 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>𝗢𝗨𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦</h2>
+    <h2> 𝗢𝗨𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦 </h2>
     <br />
     <div class="imager">
-   <img src="https://i.ibb.co/DHy3nJTd/IMG-20250212-WA0044.jpg" alt="Image" class="image">
-   <h1>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥</h1>
+   <img src="https://i.ibb.co/wF6k1zbv/20250213-011333.jpg" alt="Image" class="image">
+   <h1> 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥 </h1>
 <br />
-<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'">CONTACT</button>
+<button class="button-34" role="button" onclick="window.location.href='https://wa.me/+9779844298980'"> CONTACT </button>
     <br />
     <br />
         <div class="imager">
- <img src="https://i.ibb.co/0jdQPhSG/IMG-20250212-WA0042.jpg" alt="Image" class="image">
- <h1>𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡</h1>
+ <img src="https://i.ibb.co/3yQcxc3n/20250213-011642.jpg" alt="Image" class="image">
+ <h1> 𝗖𝗢𝗡𝗩𝗢 𝗧𝗢𝗞𝗘𝗡 </h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://abhii-page-server.onrender.com/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://abhii-page-server.onrender.com/'"> ENTER </button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/k22xTrNZ/IMG-20250212-WA0040.jpg" alt="Image" class="image">
- <h1>𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥</h1>
+ <img src="https://i.ibb.co/h33sCzC/20250213-011739.jpg" alt="Image" class="image">
+ <h1> 𝗧𝗢𝗞𝗘𝗡 𝗖𝗛𝗘𝗔𝗞𝗘𝗥 </h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://app-cheaker.onrender.com'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://app-cheaker.onrender.com'"> ENTER </button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/cSQ1XCPz/IMG-20250212-WA0041.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/39R3Fxv4/20250213-012621.jpg" alt="Image" class="image">
     <h1>𝗨𝗜𝗗 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='http://65.108.3.108:22372/'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://www.kojaxd.online/group'"> ENTER </button>
     <br />
     <br />
-            <div class="imager">
- <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
+    <div class="imager">
+ <img src="https://i.ibb.co/gMg2n9xJ/20250213-011942.jpg" alt="Image" class="image">
+    <h1>𝗚𝗘𝗧 𝗣𝗢𝗦𝗧 𝗨𝗜𝗗</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://www.kojaxd.online/getuid'"> ENTER </button>
     <br />
     <br />
-           <div class="imager">
- <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
+    <div class="imager">
+ <img src="https://i.ibb.co/qL3vBFMf/20250213-012205.jpg" alt="Image" class="image">
+    <h1>𝗣𝗢𝗦𝗧 𝗖𝗢𝗠𝗠𝗘𝗡𝗧</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
-    <br />
-    <br />
-          <div class="imager">
- <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
- <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
-    <br />
-    <br />
-          <div class="imager">
- <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
-     <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
- <br />
- <button class="button-34" role="button" onclick="window.location.href=''">CHECK</button>
-    <br />
-    <br />
-       <div class="imager">
- <img src="https://i.ibb.co/Xxv9RYf3/image.jpg" alt="Image" class="image">
- <h1>𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡</h1>
- <br />
- <button class="button-34" role="button" onclick="window.location.href='hosting.html'">CHECK</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://pastebin.com/raw/BtH0Ah08'"> ENTER </button>
     <br />
     <br />
     
@@ -396,14 +375,13 @@ h4{
       </div>
       
       <div class="mt-4 md:mt-0 text-center">
-        <p>© 2025 Abhi Inc. All Rights Reserved.</p>
-        <p>Made with ❤️ by <a href="">Abhi Brand</a></p>
+        <p>© 2025 (Serverx) All Rights Reserved.</p>
+        <p>Made with ❤️ by <a href="https://www.facebook.com/profile.php?id=100031793539926">Abhi Brand</a></p>
       </div>
         <br />
     </div>
 </body>
-</html>
-'''
+</html>'''
 
 @app.route('/')
 def home():
